@@ -1,0 +1,14 @@
+{
+  "name": "stream-discovery-engine",
+  "version": "1.0.0",
+  "description": "Automated IPTV stream discovery and validation engine",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0"
+  }
+}
